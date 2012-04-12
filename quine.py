@@ -1,6 +1,3 @@
-# logos, a really simple logic language
-
-# first, specify the tokens
 
 reserved = { 'U' : 'ALL', 'E' : 'EXIST', 'in' : 'ISIN',} #'Q' : 'QUERY' }  
 tokens = list(reserved.values()) + ['LPAREN', 'RPAREN', 'VAR', 'QUERY' ]
