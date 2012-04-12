@@ -7,6 +7,7 @@
 >E(socrates) in men
 
 >?(socrates) in mortal
+
 >TRUE
 
 ### To Do ###
